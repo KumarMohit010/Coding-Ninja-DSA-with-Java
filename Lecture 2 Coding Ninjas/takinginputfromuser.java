@@ -1,3 +1,4 @@
+import java.nio.channels.NetworkChannel;
 import java.util.Scanner;
 public class takinginputfromuser {
     public static void main(String[] args) {
