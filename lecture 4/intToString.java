@@ -13,7 +13,7 @@ public class intToString {
             System.out.println("ONE");
 
         }else if (c==2){
-            System.out.println("TWO");
+            System.out.println(" TWO ");
         }else 
         {
             System.out.println("The number is not 0 1 and 2");
