@@ -7,7 +7,7 @@ public class intToString {
         int b = s.nextInt();
         int c = s.nextInt();
         if (a == 0){
-            System.out.println("ZERO");
+            System.out.println("ZERO ");
 
         }else if (b==1){
             System.out.println("ONE");
