@@ -9,7 +9,7 @@ import java.util.Scanner;
             int i=2, sum=0;
             
             while(i <= n) {
-                sum += i;
+                sum +=  i;
                 i = i+2;
             }
     
