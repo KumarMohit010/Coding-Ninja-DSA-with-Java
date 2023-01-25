@@ -14,7 +14,7 @@ public class findcharactercase {
                 {
 System.out.println("The given Character is in lower case");
                 }else{
-                    System.out.println("This isn't an Alphabet");
+                    System.out.println("This  isn't an Alphabet");
                 }
     }
 }
