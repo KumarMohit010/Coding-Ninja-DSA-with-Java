@@ -17,7 +17,7 @@ float f =1.23f; //you have to declare 1.23 as f float so that it wont be stores 
 // d=f; valid;
 // f=d not valid;
 for copying long data into smaller one we use explicit typecasting as i = (int)l;
-
+ 
 
     }
 }
