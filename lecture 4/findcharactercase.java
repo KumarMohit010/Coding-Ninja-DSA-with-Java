@@ -8,7 +8,7 @@ public class findcharactercase {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int m= s.nextLine().charAt(0);
-                if(m>=65 && m<=90){
+                if(m>=60 && m<=90){
                     System.out.println("The character given is in upper case");
                 }else if (m>=97 && m<=122 )
                 {
