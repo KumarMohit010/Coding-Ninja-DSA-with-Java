@@ -12,8 +12,8 @@ public class intToString {
         }else if (b==1){
             System.out.println("ONE");
 
-        }else if (c==2){
-            System.out.println(" TWO ");
+        }else if (c==3){
+            System.out.println(" Three ");
         }else 
         {
             System.out.println("The number is not 0 1 and 2");
