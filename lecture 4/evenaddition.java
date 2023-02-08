@@ -13,7 +13,7 @@ import java.util.Scanner;
                 i = i+2;
             }
     
-            System.out.println(sam);
+            System.out.println(sum);
         }
     }
     
