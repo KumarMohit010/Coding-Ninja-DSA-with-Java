@@ -2,13 +2,13 @@ import java.util.Scanner;
     public class evenaddition {
     
         public static void main(String[] args) {
-            int n;
+            int m;
             Scanner sc = new Scanner(System.in);
-            n=sc.nextInt();
+            m=sc.nextInt();
     
             int i=2, sum=0;
             
-            while(i <= n) {
+            while(i <= m) {
                 sum +=  i;
                 i = i+2;
             }
